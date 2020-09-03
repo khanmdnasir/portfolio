@@ -48,7 +48,7 @@ body{
 }
 
 .link li h1{
-	margin-right: 800px;
+	margin-right: 600px;
 	margin-left: 10px;
 	display: inline;
 }
@@ -105,7 +105,7 @@ body{
 	
 }
 
-p{
+#about_me, #projects p{
 	padding:20px;
 	
 
@@ -120,7 +120,7 @@ h1{
 }
 
 h6{
-	font-size:15px;
+	font-size:20px;
 	font-family: Arial, Helvetica, sans-serif;
 	padding:2px;
 }
